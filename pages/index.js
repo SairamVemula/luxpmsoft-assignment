@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 import Input from '../components/Input'
 import Button from '../components/Button'
 import React, { useState } from 'react'
-import Popup from '../components/popup'
+import Popup from '../components/Popup'
 import { useRouter } from 'next/router'
 
 export default function Home() {
